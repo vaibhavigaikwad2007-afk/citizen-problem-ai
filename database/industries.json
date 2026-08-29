@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ABC Infrastructure",
+    "location": "Pune",
+    "department": "Road Maintenance",
+    "domain": "Civil Engineering",
+    "contact": "abc@infrastructure.com"
+  },
+  {
+    "name": "XYZ Smart Systems",
+    "location": "Pune",
+    "department": "Traffic Signal Systems",
+    "domain": "Electrical Engineering",
+    "contact": "xyz@smartsystems.com"
+  },
+  {
+    "name": "PQR Technologies",
+    "location": "Pune",
+    "department": "Software Development",
+    "domain": "Computer Science",
+    "contact": "pqr@technologies.com"
+  }
+]

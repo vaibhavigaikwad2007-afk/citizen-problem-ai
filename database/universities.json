@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ABC University",
+    "location": "Pune",
+    "department": "Civil Engineering",
+    "domain": "Civil Engineering",
+    "contact": "abc@university.com"
+  },
+  {
+    "name": "XYZ University",
+    "location": "Pune",
+    "department": "Electrical Engineering",
+    "domain": "Electrical Engineering",
+    "contact": "xyz@university.com"
+  },
+  {
+    "name": "PQR University",
+    "location": "Pune",
+    "department": "Computer Science",
+    "domain": "Computer Science",
+    "contact": "pqr@university.com"
+  }
+]
